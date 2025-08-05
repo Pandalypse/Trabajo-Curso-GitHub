@@ -1,2 +1,7 @@
-Trabajo-Curso-GitHub
-Es el trabajo que se enseña en el curso de Alura
+<h1> Sistema de Registros</h1>
+
+-Estado del proyecto: En construcción.
+
+Para ejecutar el sistema, debes poner: 
+
+```npm start react```
